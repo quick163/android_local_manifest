@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
      <!-- LG L65 aka w55ds -->
-    <project path="device/lge/w55ds" name="quick163/android_device_lge_w55ds" remote="github" revision="cm-13.0-twrp" />
+    <project path="device/lge/w55ds" name="quick163/android_device_lge_w55ds" remote="github" revision="n-3.0" />
     <project path="device/lge/msm8226-common" name="quick163/android_device_lge_msm8226-common" remote="github" revision="cm-13.0-twrp" />
     <project path="kernel/lge/msm8226" name="quick163/android_kernel_lge_msm8226" remote="github" revision="cm-13.0" />
     <project path="vendor/lge/w55ds" name="quick163/proprietary_vendor_lge_w55ds" remote="github" revision="cm-13.0" />
     <project path="vendor/lge/msm8226-common" name="quick163/proprietary_vendor_lge_msm8226-common" remote="github" revision="cm-13.0" />
 
-     <!-- CyanogenMod dependencies -->
+     <!-- CyanogenMod & NamelessRom dependencies -->
     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
-    <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="cm-13.0" />
-    <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-13.0" />
+    <project path="external/sony/boringssl-compat" name="NamelessRom/android_external_sony_boringssl-compat" revision="n-3.0" />
+    <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-13.0" />
 </manifest>
