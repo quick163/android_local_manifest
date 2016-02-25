@@ -9,6 +9,6 @@
 
      <!-- CyanogenMod & PAC-ROM dependencies -->
     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
-    <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-13.0" />
+    <project path="external/sony/boringssl-compat" name="PAC-ROM/android_external_sony_boringssl-compat" remote="github" revision="pac-6.0" />
     <project path="external/busybox" name="PAC-ROM/android_external_busybox" remote="github" revision="pac-6.0" />
 </manifest>
