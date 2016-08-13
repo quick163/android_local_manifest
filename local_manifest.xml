@@ -8,6 +8,5 @@
     <project path="vendor/lge/msm8226-common" name="quick163/proprietary_vendor_lge_msm8226-common" remote="github" revision="cm-13.0" />
 
      <!-- CyanogenMod dependencies -->
-    <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
     <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-13.0" />
 </manifest>
