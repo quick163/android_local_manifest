@@ -6,8 +6,8 @@
     <project path="kernel/lge/msm8226" name="quick163/android_kernel_lge_msm8226" remote="github" revision="cm-14.1" />
     <project path="vendor/lge/w55ds" name="quick163/proprietary_vendor_lge_w55ds" remote="github" revision="cm-14.1" />
     <project path="vendor/lge/msm8226-common" name="quick163/proprietary_vendor_lge_msm8226-common" remote="github" revision="cm-14.1" />
-
-     <!-- CyanogenMod dependencies -->
-    <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-14.1" />
-    <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-14.1" />
+     <!-- LineageOS dependencies -->
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
+    <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="cm-14.1" />
+    <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
 </manifest>
