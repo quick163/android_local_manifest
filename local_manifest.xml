@@ -9,5 +9,6 @@
      <!-- LineageOS dependencies -->
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
     <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/FlipFlap" name="LineageOS/android_packages_apps_FlipFlap" remote="github" revision="cm-14.1" />
     <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
 </manifest>
